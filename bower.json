@@ -1,0 +1,17 @@
+{
+    "name": "jacquesfrancoisshadow-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/jacquesfrancoisshadow-bower.git"
+    },
+    "description": "Jacques Francois Shadow font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
